@@ -1,5 +1,1 @@
-<h1>Any Title</h1>
-
-This is a link to [my confession](./b95855.pdf)
-
-Please phone a policeman if you want to.
+Link to [my confession](./b95855.pdf) 
