@@ -1,4 +1,4 @@
-<title> any 标题 </title>
+<h1>Any Title</h1>
 
 This is a link to [my confession](./b95855.pdf)
 
